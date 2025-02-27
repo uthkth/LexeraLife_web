@@ -1,4 +1,3 @@
-import React from 'react';
 import { ClipboardCheck, UserCircle, Rocket } from 'lucide-react';
 
 const steps = [
